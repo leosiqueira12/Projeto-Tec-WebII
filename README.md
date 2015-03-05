@@ -4,4 +4,4 @@ Integrantes da equipe:
 Everton Davi
 Brendoon Ryos
 Emerson Hideki
-Juhee Lee
+Juhee Lee.
