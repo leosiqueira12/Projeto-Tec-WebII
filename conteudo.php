@@ -3,8 +3,10 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <link rel="stylesheet" type="text/css" href="style.css">
         <link rel="stylesheet" media="handheld" href="smartphone.css" type="text/css">
-        <title></title>
+        <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
     </head>
     <body>
         <div id="article">      

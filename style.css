@@ -19,10 +19,13 @@ body
 
 header
 {
- width: 90%;
+ width: 100%;
  height: 130px;
- background-color: #3cf2ff;
+ background-color: #f00;
  padding:10px;
+ border:1px solid #000;
+ margin:0 auto;
+ position: relative;
 }
 
 .content 
@@ -38,6 +41,12 @@ article
  height: 120px;
  margin: auto;
  background-color: #B2B2B2;
+}
+#article{
+    text-align: justify;
+}
+#article h2{
+         text-align: center;
 }
 
 article:hover

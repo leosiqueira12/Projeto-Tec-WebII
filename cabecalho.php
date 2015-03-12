@@ -3,9 +3,9 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" type="text/css" href="style.css">
-        <link rel="stylesheet" media="handheld" href="smartphone.css" type="text/css">
+        <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css' />
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        <link rel="stylesheet" media="handheld" href="smartphone.css" type="text/css" />
         <title>OpenSource OS</title>
     </head>
 
@@ -13,8 +13,8 @@
 
         <header>
 
-        </header>
-        <div id="content">
+        
+        <div id="content"></div>
 
             <br>
             <nav>
@@ -30,7 +30,7 @@
 
             </nav>
 
-
+    </header>
 
 
     </body>

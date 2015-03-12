@@ -2,11 +2,15 @@
 <html>
     <head>
 	<title>Working</title>
-	<link rel="stylesheet" href="style.css" type="text/css" />
+         <meta charset="utf-8">
+         
     </head>
+    
     <body>
-       <?php include "menu.php"; ?>
-      
+        
+       <?php include "cabecalho.php"; ?>
+       <?php include "conteudo.php"; ?>
+        <?php include "rodape.php"; ?>
       
           
         

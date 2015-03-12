@@ -7,6 +7,8 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
+        <link rel="stylesheet" href="style.css" type="text/css" />
+          <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
         <title></title>
     </head>
     <body>
