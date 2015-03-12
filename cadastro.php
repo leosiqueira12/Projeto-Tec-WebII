@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <head>
-
-    <head>
+    
     <body>
 
         <form name="form1" method="post" action="enviar.php">
@@ -23,5 +21,4 @@
             </p>
         </form>
     </body>
-    <html>
-
+    </html>
