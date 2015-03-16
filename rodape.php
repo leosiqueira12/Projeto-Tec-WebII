@@ -9,8 +9,7 @@
     </head>
     <body>
         <footer>
-            <img id="twitter" alt="Twitter" src="imagem/twitter.png">
-            <img id="facebook" alt="Facebook" src="imagem/hexagon-facebook_1x.png">
+           
         </footer>
     </body>
 </html>

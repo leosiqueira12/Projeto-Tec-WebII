@@ -15,7 +15,14 @@
 
         
         <div id="content"></div>
+		        <form>
 
+	<p>Nome: <input type="text" name="nome"/>  Senha: <input type="password" name="senha"/>	<input type="submit" value="Entrar"/></p>
+
+
+            
+
+        </form>
             <br>
             <nav>
                 <div class="navicon">
