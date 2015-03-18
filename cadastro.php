@@ -47,7 +47,7 @@ SENHA:<br>
 <input type="submit" a href="Home.html" value="Log in">
 <br></br>
 
-<a href="Signup.html">Sign UP</a>
+<a href="signup.php">Sign UP</a>
 
 <SCRIPT> 
 function acesso()
